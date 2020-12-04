@@ -1,0 +1,29 @@
+body{
+    background: rgb(44, 114, 245);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center; /*centralizar o título*/
+}
+
+section{
+    background: white; /*cor de fundo*/
+    border-radius: 10px; /* Raio da borda: borda arredondada */
+    padding: 15px; /*espaço dentro do section*/
+    width: 500px; /*largura fixa*/
+    margin: auto; /* centralizar a section */
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.445) /*sombreamento da section*/
+    
+}
+div {
+    padding: 8px;
+    font: bold 12px Arial;
+}
+
+footer{
+    color: white;
+    text-align: center; /*centralizar o footer*/
+    font-style: italic; /*mudar o tipo da fonte para itálico*/
+}
